@@ -56,6 +56,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
 "http://localhost:5173",
+"https://quiz-app-r1ex.onrender.com"
 ]
 
 ROOT_URLCONF = 'Quiz_Project.urls'
